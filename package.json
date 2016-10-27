@@ -10,12 +10,15 @@
     "react-scripts": "^0.6.0"
   },
   "dependencies": {
+    "axios": "^0.15.2",
     "react": "^15.3.0",
     "react-dom": "^15.3.0",
     "react-redux": "^4.4.5",
     "redux": "^3.5.2",
     "redux-logger": "^2.6.1",
-    "redux-thunk": "^2.1.0"
+    "redux-observable": "^0.12.1",
+    "redux-thunk": "^2.1.0",
+    "rxjs": "^5.0.0-rc.1"
   },
   "scripts": {
     "start": "react-scripts start",
